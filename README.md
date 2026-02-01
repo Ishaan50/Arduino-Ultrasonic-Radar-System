@@ -3,7 +3,7 @@ An Arduino-based radar system that uses an ultrasonic sensor and a servo motor t
 
 ## Language Used 
 ![C++](https://img.shields.io/badge/c++-3776AB.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Java](https://img.shields.io/badge/java–FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-3776AB.svg?style=for-the-badge&logo=java&logoColor=white)
 ### 🔧 Components Used
 
 * Arduino Uno
