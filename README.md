@@ -12,5 +12,3 @@ An Arduino-based radar system that uses an ultrasonic sensor and a servo motor t
 * Breadboard
 * Jumper Wires
 * USB Cable (for serial communication)
-
-If you want it **even shorter** or **with pin numbers**, I can do that too 👍
